@@ -1,0 +1,12 @@
+# Texas Border Diabetes Analysis — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+scipy>=1.9
+statsmodels>=0.14
+libpysal>=4.6
+esda>=2.4
+pyreadstat>=1.2
