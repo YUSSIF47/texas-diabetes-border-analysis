@@ -199,12 +199,10 @@ Data are from federal public domain sources (CDC and USDA).
 ---
 
 ## Citation
-
 If you use this code or data, please cite:
-
 > Saha, P.R., Khan, S., Yahaya, Y., & Meia, M.A.A. (2025). Border-Region Status
 > and Diagnosed Diabetes Prevalence in Texas: A Cross-Sectional Ecological Analysis.
-> *PLOS ONE* (under review). Code and data: https://doi.org/[INSERT ZENODO DOI]
+> *PLOS ONE* (under review). Code and data: https://doi.org/10.5281/zenodo.20390172
 
 ---
 
